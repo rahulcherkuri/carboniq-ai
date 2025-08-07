@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "GitHub.copilot",
+    "workbench.settings.useSplitJSON": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.env.osx": {
+        
+    },
+    "git.ignoreLimitWarning": true
+}
