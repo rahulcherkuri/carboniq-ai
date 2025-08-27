@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd carboniq-ai && npm run build",
+  "outputDirectory": "carboniq-ai/.next",
+  "installCommand": "cd carboniq-ai && npm install"
+}
